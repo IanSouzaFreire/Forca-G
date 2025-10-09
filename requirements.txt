@@ -1,0 +1,15 @@
+qrcode
+brcode
+requests
+flask
+re
+json
+logging
+typing
+io
+base64
+datetime
+pillow
+decimal
+random
+dotenv
